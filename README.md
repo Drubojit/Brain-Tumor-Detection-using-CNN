@@ -18,3 +18,10 @@ proposed Model Summary:
 
 ![modelsummary](https://user-images.githubusercontent.com/40456128/146003971-c25e1896-5e37-435a-88af-db46549ce40c.png)
 
+
+Classification Report:
+
+
+![run10_class](https://user-images.githubusercontent.com/40456128/146004258-43a622d9-f92f-4be3-9751-fb0885458823.png)
+
+
